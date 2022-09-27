@@ -9,10 +9,10 @@ class Codechef
 	{
 		// your code goes here
 		InputReader ir = new InputReader(System.in);
-        int t = ir.nextInt();
-        while(t-->0){
-        }
-        ir.close();
+        	int t = ir.nextInt();
+        	while(t-->0){
+        	}
+        	ir.close();
 	}
 }
 
